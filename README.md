@@ -1,6 +1,6 @@
 # Data_Analytics
 
-Este es un proyecto de Data Science. Aplicaremos: Webscraping + Visualizaciones
+Este es un proyecto de Data Science en el que aplicaremos: Webscraping + Visualizaciones
 
 # Localización de centros ElCorteInglés
 
