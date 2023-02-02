@@ -1,4 +1,4 @@
-# Data_Analytics
+# Data_Science_Project
 
 Este es un proyecto de Data Science en el que aplicaremos: Webscraping + Visualizaciones
 
