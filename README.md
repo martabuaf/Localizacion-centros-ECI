@@ -23,7 +23,7 @@ de los centros y toda la información a modo de popup.
 Como ampliación del proyecto se propone añadir un sistema de búsqueda de los centros más cercanos mediante el código postal. 
 El usuario introduce el CP y el sistema muestra un mapa de los centros más cercamos, así como la distancia (en km) de cada uno a este punto.
 
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/122131317/218288066-ed8be58d-0aba-48e1-9db1-d887819f8e9a.gif)
+![ezgif com-video-to-gif-2](https://user-images.githubusercontent.com/122131317/218288323-57efda72-0003-4b26-9d7b-fe35be1143ab.gif)
 
 <h2 style="text-align:center;">Espero que te haya gustado!! 😄</h2>
 
